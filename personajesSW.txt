@@ -1,0 +1,35 @@
+{
+	
+	"titulos":["Personajes","Star","Wars"]
+
+	"personaje1":{
+		"nombre":"Darth",
+		"altura":2.03,
+		"nacimiento":41,	
+	}
+	"personaje2":{
+		"nombre":"Luke",
+		"altura":1.72,
+		"nacimiento":19,	
+	}
+	"personaje3":{
+		"nombre":"Han",
+		"altura":1.85,
+		"nacimiento":32,	
+	}
+	"personaje4":{
+		"nombre":"Chewbacca",
+		"altura":2.14,
+		"nacimiento":null,	
+	}
+	"personaje5":{
+		"nombre":"Yoda",
+		"altura":0.66,
+		"nacimiento":896,	
+	}
+	"personaje6":{
+		"nombre":"Luke",
+		"altura":1.72,
+		"nacimiento":19,	
+	}
+}
